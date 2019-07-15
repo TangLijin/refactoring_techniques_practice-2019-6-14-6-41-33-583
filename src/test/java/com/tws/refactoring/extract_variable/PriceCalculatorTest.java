@@ -1,7 +1,7 @@
 package com.tws.refactoring.extract_variable;
 
+import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 
 class PriceCalculatorTest {
 
