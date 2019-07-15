@@ -9,9 +9,8 @@ public class OwingPrinter {
         double outstanding = 0.0;
 
         // print banner
-        System.out.println ("*****************************");
-        System.out.println ("****** Customer totals ******");
-        System.out.println ("*****************************");
+
+        System.out.println ("*****************************\r\n" + "****** Customer totals ******\r\n" + "*****************************");
 
 //         print owings
         while (elements.hasNext()) {

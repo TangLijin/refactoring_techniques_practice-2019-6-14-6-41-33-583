@@ -46,6 +46,5 @@ public class OwingPrinterTest {
         result += "amount: 30.0\r\n";
 
         assertEquals(result, outContent.toString());
-
     }
 }
